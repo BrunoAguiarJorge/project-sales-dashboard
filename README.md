@@ -1,4 +1,8 @@
-# Project-sales-dashboard
+## Project-sales-dashboard -> https://bruno-sales-dashboard.netlify.app/
+
+Instruction: 
+Please note: It takes approximately 1 min for the app to wake up and load the data.
+
 
 ## Technologies used:
 
